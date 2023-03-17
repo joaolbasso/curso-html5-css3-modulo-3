@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('/exm001/imagens/cidade.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#img1 {
+    background-color: black;
+    background-image: url('imagens/mar.jpg');
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#img2 {
+    background-image: url('/exm001/imagens/gatos.jpg');
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
